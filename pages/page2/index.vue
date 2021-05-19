@@ -1,14 +1,13 @@
 <template>
   <div class="wrapper-content wrapper-content--fixed">
-
-<!--    <Intro title="My last posts: "/>-->
-    <Content  />
+    <div class="container">
+      <h1>Page 2</h1>
+    </div>
   </div>
 </template>
 
 <script>
-
 export default {
-  components: {  }
+  computed: {}
 }
 </script>
